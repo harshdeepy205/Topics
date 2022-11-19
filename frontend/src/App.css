@@ -1,0 +1,37 @@
+.home_scope{
+  display:flex;
+  justify-content: center;
+  padding: 6rem 0;
+}
+
+.home_scope .card{
+  width: 24rem;
+}
+
+.dashboard_scope{
+  padding: 2rem 4rem;
+  border: 0.5px solid black;
+  margin: 3rem;
+}
+
+.dashboard_scope .add_topic_container .input_label{
+  width: 70%;
+}
+
+.dashboard_scope .all_topics_container{
+  margin-top: 4rem;
+}
+
+.topic_description_Scope{
+  padding: 2rem 4rem;
+  border: 0.5px solid black;
+  margin: 3rem;
+}
+
+.topic_description_Scope .all_topics_desc{
+  margin-top: 1rem;
+}
+
+.topic_description_Scope .at_content{
+  margin-top: 1.5rem;
+}
